@@ -1,0 +1,4 @@
+fastkart-api/storage/dotenv-editor/backups/
+*.env*
+fastkart-api/public/db.sql
+
